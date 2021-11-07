@@ -5,5 +5,5 @@ Done:
 * Rough design aka web App mock up
 
 To do - 
-* complete all helpingfunctions.js
+* complete helpingfunctions.js
 * logic code
