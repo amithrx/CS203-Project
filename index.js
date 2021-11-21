@@ -20,16 +20,8 @@ addBtn.addEventListener("click", function (e) {
   for (let index = 0; index < dontstr.length; index++) {
     if (dontstr[index] != ",") dontarray.push(dontstr[index]);
   }
-  //   if (dontarray.length == 0) {
-  //     const f = new QuineMcCluskey(str, mintermarray);
-  //     alert("the answer = " + f.getFunction());
-  //   } else {
-  //     const f = new QuineMcCluskey(str, mintermarray, dontarray);
-  //     alert(f.getFunction());
-  //   }
-  // console.log(f.getFunction())//Sick
+
   const f = new QuineMcCluskey(str, mintermarray, dontarray);
   alert("The minimized expression using QM method = " + f.getFunction());
-  //   const f = new QuineMcCluskey(str, mintermarray);
-  //   alert(f.getFunction());
+
 });
