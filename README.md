@@ -3,6 +3,6 @@ To run the project there are two ways\
  2. download code and open index.html on browser.\
 
 How to give input : \
- as shown in input.png first input is number of indepedent variables, 2nd is minterms enter it comma saprated without space and same for Don't care terms input.
+ As shown in input.png first input is number of indepedent variables, 2nd is minterms enter it comma separated without space and same for Don't care terms input.
 
 
